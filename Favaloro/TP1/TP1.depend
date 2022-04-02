@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1522012178 source:f:\ezequiel\codeblocks\favaloro\tp1\main.cpp
+	<iostream>
+	<string>
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<cReserva.h>
+	<cPersona.h>
+
+1522009658 f:\ezequiel\codeblocks\favaloro\tp1\include\creserva.h
+	<stdlib.h>
+	<stdio.h>
+	<cPersona.h>
+	<cResort.h>
+	<cTelefono.h>
+
+1522010614 f:\ezequiel\codeblocks\favaloro\tp1\include\cpersona.h
+	<string>
+	<cTelefono.h>
+
+1522008223 f:\ezequiel\codeblocks\favaloro\tp1\include\cresort.h
+	<cTelefono.h>
+
+1522010221 f:\ezequiel\codeblocks\favaloro\tp1\include\ctelefono.h
+
+1522012200 source:f:\ezequiel\codeblocks\favaloro\tp1\src\cpersona.cpp
+	"cPersona.h"
+
+1522012214 source:f:\ezequiel\codeblocks\favaloro\tp1\src\creserva.cpp
+	"cReserva.h"
+
+1522006517 source:f:\ezequiel\codeblocks\favaloro\tp1\src\cresort.cpp
+	"cResort.h"
+
+1522006517 source:f:\ezequiel\codeblocks\favaloro\tp1\src\ctelefono.cpp
+	"cTelefono.h"
+

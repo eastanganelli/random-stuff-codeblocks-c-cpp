@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1478570105 source:f:\ezequiel\codeblocks\info 2\mayra2exparcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+

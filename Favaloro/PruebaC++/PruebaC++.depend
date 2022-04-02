@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1521913959 source:f:\ezequiel\codeblocks\pruebac++\main.cpp
+	<iostream>
+	<string>
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+

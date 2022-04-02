@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1480783085 source:f:\ezequiel\codeblocks\switchword\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
+1480784271 source:d:\ezequiel\my ebooks\codeblocks\uca\switchword\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+

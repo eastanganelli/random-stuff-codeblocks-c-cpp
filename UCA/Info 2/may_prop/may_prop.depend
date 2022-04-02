@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1479353581 source:f:\ezequiel\codeblocks\info 2\may_prop\main.c
+	<stdio.h>
+	<stdlib.h>
+

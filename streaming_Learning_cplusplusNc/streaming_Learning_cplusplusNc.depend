@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1592175109 source:d:\ezequiel\my ebooks\codeblocks\streaming_learning_cplusplusnc\main.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+

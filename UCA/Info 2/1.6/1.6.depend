@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1472698124 source:f:\ezequiel\codeblocks\info 2\1.6\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1472699994 source:f:\ezequ\my ebooks\codeblocks\uca\info 2\1.6\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
